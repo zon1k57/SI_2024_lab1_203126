@@ -1,22 +1,60 @@
-[33mcommit 0facbd469a4c040ccb31a64b3c1660d6f0e9a9d7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+commit 13e650223f6b0a2ba18169864af32d72911fa669
+Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
+Date:   Thu Apr 11 21:41:22 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit fd8c92aca0c1453cfb8617f6c6810ba0f2bc1b1c
+Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
+Date:   Thu Apr 11 21:36:13 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 0beb4ec7c4cb8a9962e8a4605f8c6d0e6618347c
+Merge: 5ee97af 370f31b
+Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
+Date:   Thu Apr 11 21:48:25 2024 +0200
+
+    Merge branch 'bug1'
+    Merge branch bug1 with master branch.
+
+commit 370f31b43e440932fa139c9e8893c6888cfa1b2b
+Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
+Date:   Thu Apr 11 21:42:28 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 84c51a05815e607dca55ab32b9a09e7683bdab4a
+Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
+Date:   Thu Apr 11 21:30:52 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 5ee97af1e05da4c38f338aca7b35581090461ee3
+Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
+Date:   Thu Apr 11 21:24:44 2024 +0200
+
+    temporal commit
+
+commit 0facbd469a4c040ccb31a64b3c1660d6f0e9a9d7
 Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
 Date:   Thu Apr 11 19:18:48 2024 +0200
 
     Add starter code
 
-[33mcommit e69e15545f55b8f076a6d1680b9b318049d54726[m[33m ([m[1;31morigin/master[m[33m)[m
+commit e69e15545f55b8f076a6d1680b9b318049d54726
 Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
 Date:   Thu Apr 11 19:13:35 2024 +0200
 
     Initial commitexit
 
-[33mcommit 2cf29cf0cc594cb719ad916f888c7fa72988153d[m
+commit 2cf29cf0cc594cb719ad916f888c7fa72988153d
 Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
 Date:   Thu Apr 11 19:02:13 2024 +0200
 
     second commit
 
-[33mcommit 21852091617206ac590b37a089633cabd9b95eb2[m
+commit 21852091617206ac590b37a089633cabd9b95eb2
 Author: zonkatron_203126 <viktorstojanovski32@gmail.com>
 Date:   Thu Apr 11 18:49:25 2024 +0200
 

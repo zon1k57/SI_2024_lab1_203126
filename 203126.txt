@@ -1,0 +1,52 @@
+4.За правење нов директориум ја искористив командата "mkdir", за иницијализација "git init".
+
+5.За поврзување на локален репозиториум со оддалечниот репозиториум, ги искористив командите:
+-git commit -m "first commit" - команда за правење commit,промена во репозиториум.
+-git branch -M master - команда за правење главна гранка.
+-git remote add origin https://github.com/zon1k57/SI_2024_lab1_203126.git - линк на локалниот репозиториум со одаллечниот.
+-git push -u origin master - команда за туркање на промените напревени во локалниот репозиториум во одаллечниот.
+
+6.Овој чекор го направив во 5 чекор кога го поврзував локалниот репозиториум со одаллечниот репозиториум само со командата echo "# SI_2024_lab1_203126" >> README.md, па git add README.md.
+А за останатиот дел откога внесов име презиме и индекс, искористив git add README.md за модифицираната датотека да ја додадам во tracked files, па git commit -m "Initial commit".
+
+7.Искористив git add -A за да ги додадам сите untracked files во tracked files, па git commit -m "Add starter code".
+
+8.git push -u origin master за синхронизација.
+
+9.git branch bug1 и bug2 за креирање на нови гранки.
+
+10.Искористив git checkout bug1 командата за да се префрлам од master во bug1 командата.
+
+11.git add -A за додавање изменетата датотека, па git commit -m " Fix wrong condition in filterOddLengthStrings".
+
+12.git checkout bug2 за префрлување во bug2 гранката.
+
+13.исти команди како задача 11.
+
+14.git checkout bug1.
+
+15.git add -A за додавање изменета датотека, па git commit -m "Call method filterOddLengthStrings in main class"
+
+16.git checkout bug2.
+
+17.иста команда како задача 15.
+
+18.Посебно имам влегувано во гранките bug1 и bug2 со командата git checkout, и на двете гранки им ја имам доделено командата git push -u origin bug1 за bug1, git push -u origin bug1 за bug2.
+
+19.git checkout master
+
+20.Ја искористив git merge командата за да ја спојам bug1 гранката со master гранката.
+
+21.git push -u origin master.
+
+22.git checkout bug2.
+
+23.Ја искористив командата git rebase master за гранката bug2 да се синхронизира со новодадените датотеки.
+
+24.git checkout master.
+
+25.Истата команда како задача 20, git merge bug2.
+
+26 и 27. Посебно на сите гранки ја имам искористено командата git push -u origin, за master master, за bug1 bug1, за bug2 bug2.
+
+28.Искористив псевдо команда git log > logs.txt.
